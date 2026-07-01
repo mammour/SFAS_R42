@@ -1,0 +1,8 @@
+closed phase-contract surface
+→ phase-contract-bound phase-receipt objects
+→ phase-receipt index
+→ phase-receipt index query
+→ query-result objects
+→ query-result-object index
+→ final query
+→ closed phase-receipt surface
