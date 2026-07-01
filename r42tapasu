@@ -1,0 +1,8 @@
+closed task-packet surface
+→ task-packet-bound layer-family blueprint objects
+→ blueprint index
+→ blueprint index query
+→ query-result objects
+→ query-result-object index
+→ final query
+→ closed blueprint surface
