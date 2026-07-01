@@ -1,0 +1,8 @@
+closed phase-receipt surface
+→ phase-receipt-bound phase-audit objects
+→ phase-audit index
+→ phase-audit index query
+→ query-result objects
+→ query-result-object index
+→ final query
+→ closed phase-audit surface
