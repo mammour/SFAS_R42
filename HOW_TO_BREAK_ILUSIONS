@@ -1,0 +1,8 @@
+closed repair-plan defect-receipt surface
+→ repair-plan-defect-receipt-bound repair-plan repair-request objects
+→ repair-request index
+→ repair-request index query
+→ query-result objects
+→ query-result-object index
+→ final query
+→ closed repair-plan repair-request surface
